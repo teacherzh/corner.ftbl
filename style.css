@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    height: 75px;
+    line-height: 75%;
+    padding: 0px 100px;
+    position: fixed;
+    background-image: linear-gradient(#c2e71c,#84d41b);
+}
